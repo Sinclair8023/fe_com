@@ -1,1 +1,4 @@
-export Flex from './flex'
+import Flex from './flex'
+export default {
+  Flex
+}
